@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "Elliptic_Order_of_Points"
+name = "Elliptic_Curve_Point_Order_Finder_in_Finite_Fields"
 version = "0.1.0"
 dependencies = [
  "num-bigint",
