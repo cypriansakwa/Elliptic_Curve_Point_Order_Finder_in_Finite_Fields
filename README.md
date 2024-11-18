@@ -40,7 +40,7 @@ Computes the modular inverse using the extended Euclidean algorithm.
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository**: Clone this repository or copy the code into a `.rs` file.
     ```bash
     git clone https://github.com/cypriansakwa/Elliptic_Curve_Point_Order_Finder_in_Finite_Fields.git
     cd Elliptic_Curve_Point_Order_Finder_in_Finite_Fields
