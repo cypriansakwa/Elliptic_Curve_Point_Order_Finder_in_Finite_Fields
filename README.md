@@ -2,7 +2,7 @@
 
 This Rust program calculates the order of a given point on an elliptic curve over a finite field. The elliptic curve is defined by the equation:
 
-\[ y^2 = x^3 + ax + b \mod p \]
+$y^2 = x^3 + ax + b \mod p$
 
 ## Description
 The program determines the order of a point on the elliptic curve modulo a prime `p`. It uses point addition and point doubling on the elliptic curve and leverages modular arithmetic. The code includes functions for adding two points on the curve and finding the modular inverse using the extended Euclidean algorithm.
